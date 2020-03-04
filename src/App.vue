@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Initial Setup
+    Vue Mounted Successfully
   </div>
 </template>
 
